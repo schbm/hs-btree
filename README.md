@@ -1,4 +1,4 @@
 # hs-btree
-binary tree reference haskell (based on lists).
+Binary tree structure in haskell (based on lists).
 
 For reference only!
