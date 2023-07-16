@@ -1,7 +1,7 @@
 # hs-btree
-Binary tree structure in haskell (based on lists).
-
-For reference only!
+Binary tree structure in haskell (based on list operations).
+The operations could be better implemented using recursion.
+> For reference only!
 
 # example usage
 ```
